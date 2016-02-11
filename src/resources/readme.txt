@@ -1,0 +1,1 @@
+Copy products.csv to ~/data/ and then run jeffreytackett.datastore.BuildTable
